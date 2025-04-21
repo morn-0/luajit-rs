@@ -1,0 +1,3 @@
+[submodule "luajit-sys/embed/luajit"]
+	path = luajit-sys/embed/luajit
+	url = https://github.com/LuaJIT/LuaJIT.git
